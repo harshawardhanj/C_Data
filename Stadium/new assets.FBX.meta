@@ -1,0 +1,502 @@
+fileFormatVersion: 2
+guid: 390a3040531a7094d9ae99ae47d6e244
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Banner_Ground
+    100002: Banners_Level_0
+    100004: Banners_Level_1
+    100006: Banners_Level_2
+    100008: Banners_Level_3
+    100010: Banners_Pitch
+    100012: Barriers_External
+    100014: Barriers_Level_0
+    100016: Barriers_Level_1
+    100018: Barriers_Level_2
+    100020: Barriers_Level_3
+    100022: Barriers_Press
+    100024: Barriers_Temporary_Stands
+    100026: Box001
+    100028: Box002
+    100030: Box003
+    100032: Box004
+    100034: Box005
+    100036: Box006
+    100038: Box007
+    100040: Box008
+    100042: carpet
+    100044: Corner_Flag_1
+    100046: Corner_Flag_2
+    100048: Corner_Flag_3
+    100050: Corner_Flag_4
+    100052: Exterior_Ground
+    100054: Field_Lines
+    100056: GOAL POLE BASE
+    100058: GOAL POLE BASE001
+    100060: Grass
+    100062: Ground
+    100064: Level_0
+    100066: Level_005
+    100068: Level_007
+    100070: Level_2
+    100072: Lighting_Level_3
+    100074: Lighting_Roof_1
+    100076: Lighting_Roof_2
+    100078: Lighting_Roof_3
+    100080: //RootNode
+    100082: Object021
+    100084: Object022
+    100086: Object023
+    100088: Object024
+    100090: Object025
+    100092: Object026
+    100094: Object027
+    100096: Object028
+    100098: Object029
+    100100: Object030
+    100102: Pillars_Level_1
+    100104: Pillars_Level_2
+    100106: Pillars_Level_3
+    100108: Pitch
+    100110: pitch line
+    100112: Posts_and_Lining
+    100114: Press_Desks
+    100116: Roof
+    100118: Roof_Glass
+    100120: Roof_Lining
+    100122: Roof_Service_Floors
+    100124: Roof_Speakers
+    100126: Roof_Structural_Beams
+    100128: Screens
+    100130: Stair_Steps_External
+    100132: Stair_Steps_Level_004
+    100134: Stair_Steps_Level_2
+    100136: Stair_Steps_Press
+    100138: Substitutes_Benches
+    100140: Temporary_Stands
+    100142: Windows_Level_0
+    100144: Windows_Level_1
+    100146: Windows_Level_2
+    100148: Windows_Level_3
+    400000: Banner_Ground
+    400002: Banners_Level_0
+    400004: Banners_Level_1
+    400006: Banners_Level_2
+    400008: Banners_Level_3
+    400010: Banners_Pitch
+    400012: Barriers_External
+    400014: Barriers_Level_0
+    400016: Barriers_Level_1
+    400018: Barriers_Level_2
+    400020: Barriers_Level_3
+    400022: Barriers_Press
+    400024: Barriers_Temporary_Stands
+    400026: Box001
+    400028: Box002
+    400030: Box003
+    400032: Box004
+    400034: Box005
+    400036: Box006
+    400038: Box007
+    400040: Box008
+    400042: carpet
+    400044: Corner_Flag_1
+    400046: Corner_Flag_2
+    400048: Corner_Flag_3
+    400050: Corner_Flag_4
+    400052: Exterior_Ground
+    400054: Field_Lines
+    400056: GOAL POLE BASE
+    400058: GOAL POLE BASE001
+    400060: Grass
+    400062: Ground
+    400064: Level_0
+    400066: Level_005
+    400068: Level_007
+    400070: Level_2
+    400072: Lighting_Level_3
+    400074: Lighting_Roof_1
+    400076: Lighting_Roof_2
+    400078: Lighting_Roof_3
+    400080: //RootNode
+    400082: Object021
+    400084: Object022
+    400086: Object023
+    400088: Object024
+    400090: Object025
+    400092: Object026
+    400094: Object027
+    400096: Object028
+    400098: Object029
+    400100: Object030
+    400102: Pillars_Level_1
+    400104: Pillars_Level_2
+    400106: Pillars_Level_3
+    400108: Pitch
+    400110: pitch line
+    400112: Posts_and_Lining
+    400114: Press_Desks
+    400116: Roof
+    400118: Roof_Glass
+    400120: Roof_Lining
+    400122: Roof_Service_Floors
+    400124: Roof_Speakers
+    400126: Roof_Structural_Beams
+    400128: Screens
+    400130: Stair_Steps_External
+    400132: Stair_Steps_Level_004
+    400134: Stair_Steps_Level_2
+    400136: Stair_Steps_Press
+    400138: Substitutes_Benches
+    400140: Temporary_Stands
+    400142: Windows_Level_0
+    400144: Windows_Level_1
+    400146: Windows_Level_2
+    400148: Windows_Level_3
+    2100000: 24 - Default
+    2100002: 'Material #38'
+    2100004: 03 - Default
+    2100006: 'Material #1340'
+    2100008: 13 - Default
+    2100010: lvl_02
+    2100012: 05 - Default
+    2100014: No Name
+    2100016: 'Material #30'
+    2100018: 12 - Default
+    2100020: 'Material #1149'
+    2100022: stadium_03___Default
+    2100024: 07 - Default
+    2100026: 'Material #140'
+    2100028: 'Material #26'
+    2100030: 'Material #140sd'
+    2100032: 'Material #1105'
+    2100034: 'Material #28'
+    2100036: 'Material #40'
+    2100038: 'Material #52'
+    2100040: 'Material #65'
+    2100042: 'Material #78'
+    2100044: 10 - Default
+    2100046: 17 - Default
+    2100048: 22 - Default
+    2100050: 'Material #27'
+    2100052: 'Material #138'
+    2100054: 'Material #139'
+    2100056: 04 - Default
+    2100058: 06 - Default
+    2100060: 'Material #451 Slot #1'
+    2100062: 20 - Default
+    2100064: 'Material #1301'
+    2100066: 'Material #1363'
+    2100068: 'Material #1364'
+    2100070: 'Material #1365'
+    2100072: 'Material #1366'
+    2100074: 'Material #31'
+    2100076: 'Material #1389'
+    2300000: Banner_Ground
+    2300002: Banners_Level_0
+    2300004: Banners_Level_1
+    2300006: Banners_Level_2
+    2300008: Banners_Level_3
+    2300010: Banners_Pitch
+    2300012: Barriers_External
+    2300014: Barriers_Level_0
+    2300016: Barriers_Level_1
+    2300018: Barriers_Level_2
+    2300020: Barriers_Level_3
+    2300022: Barriers_Press
+    2300024: Barriers_Temporary_Stands
+    2300026: Box001
+    2300028: Box002
+    2300030: Box003
+    2300032: Box004
+    2300034: Box005
+    2300036: Box006
+    2300038: Box007
+    2300040: Box008
+    2300042: carpet
+    2300044: Corner_Flag_1
+    2300046: Corner_Flag_2
+    2300048: Corner_Flag_3
+    2300050: Corner_Flag_4
+    2300052: Exterior_Ground
+    2300054: Field_Lines
+    2300056: GOAL POLE BASE
+    2300058: GOAL POLE BASE001
+    2300060: Grass
+    2300062: Ground
+    2300064: Level_0
+    2300066: Level_005
+    2300068: Level_007
+    2300070: Level_2
+    2300072: Lighting_Level_3
+    2300074: Lighting_Roof_1
+    2300076: Lighting_Roof_2
+    2300078: Lighting_Roof_3
+    2300080: Object021
+    2300082: Object022
+    2300084: Object023
+    2300086: Object024
+    2300088: Object025
+    2300090: Object026
+    2300092: Object027
+    2300094: Object028
+    2300096: Object029
+    2300098: Object030
+    2300100: Pillars_Level_1
+    2300102: Pillars_Level_2
+    2300104: Pillars_Level_3
+    2300106: Pitch
+    2300108: pitch line
+    2300110: Posts_and_Lining
+    2300112: Press_Desks
+    2300114: Roof
+    2300116: Roof_Glass
+    2300118: Roof_Lining
+    2300120: Roof_Service_Floors
+    2300122: Roof_Speakers
+    2300124: Roof_Structural_Beams
+    2300126: Screens
+    2300128: Stair_Steps_External
+    2300130: Stair_Steps_Level_004
+    2300132: Stair_Steps_Level_2
+    2300134: Stair_Steps_Press
+    2300136: Substitutes_Benches
+    2300138: Temporary_Stands
+    2300140: Windows_Level_0
+    2300142: Windows_Level_1
+    2300144: Windows_Level_2
+    2300146: Windows_Level_3
+    3300000: Banner_Ground
+    3300002: Banners_Level_0
+    3300004: Banners_Level_1
+    3300006: Banners_Level_2
+    3300008: Banners_Level_3
+    3300010: Banners_Pitch
+    3300012: Barriers_External
+    3300014: Barriers_Level_0
+    3300016: Barriers_Level_1
+    3300018: Barriers_Level_2
+    3300020: Barriers_Level_3
+    3300022: Barriers_Press
+    3300024: Barriers_Temporary_Stands
+    3300026: Box001
+    3300028: Box002
+    3300030: Box003
+    3300032: Box004
+    3300034: Box005
+    3300036: Box006
+    3300038: Box007
+    3300040: Box008
+    3300042: carpet
+    3300044: Corner_Flag_1
+    3300046: Corner_Flag_2
+    3300048: Corner_Flag_3
+    3300050: Corner_Flag_4
+    3300052: Exterior_Ground
+    3300054: Field_Lines
+    3300056: GOAL POLE BASE
+    3300058: GOAL POLE BASE001
+    3300060: Grass
+    3300062: Ground
+    3300064: Level_0
+    3300066: Level_005
+    3300068: Level_007
+    3300070: Level_2
+    3300072: Lighting_Level_3
+    3300074: Lighting_Roof_1
+    3300076: Lighting_Roof_2
+    3300078: Lighting_Roof_3
+    3300080: Object021
+    3300082: Object022
+    3300084: Object023
+    3300086: Object024
+    3300088: Object025
+    3300090: Object026
+    3300092: Object027
+    3300094: Object028
+    3300096: Object029
+    3300098: Object030
+    3300100: Pillars_Level_1
+    3300102: Pillars_Level_2
+    3300104: Pillars_Level_3
+    3300106: Pitch
+    3300108: pitch line
+    3300110: Posts_and_Lining
+    3300112: Press_Desks
+    3300114: Roof
+    3300116: Roof_Glass
+    3300118: Roof_Lining
+    3300120: Roof_Service_Floors
+    3300122: Roof_Speakers
+    3300124: Roof_Structural_Beams
+    3300126: Screens
+    3300128: Stair_Steps_External
+    3300130: Stair_Steps_Level_004
+    3300132: Stair_Steps_Level_2
+    3300134: Stair_Steps_Press
+    3300136: Substitutes_Benches
+    3300138: Temporary_Stands
+    3300140: Windows_Level_0
+    3300142: Windows_Level_1
+    3300144: Windows_Level_2
+    3300146: Windows_Level_3
+    4300000: Level_0
+    4300002: Barriers_Temporary_Stands
+    4300004: Barriers_Level_0
+    4300006: Temporary_Stands
+    4300008: Pillars_Level_1
+    4300010: Barriers_Level_1
+    4300012: Barriers_Level_3
+    4300014: Lighting_Level_3
+    4300016: Pillars_Level_2
+    4300018: Pillars_Level_3
+    4300020: Level_2
+    4300022: Stair_Steps_Level_2
+    4300024: Press_Desks
+    4300026: Stair_Steps_Press
+    4300028: Barriers_Press
+    4300030: Barriers_External
+    4300032: Stair_Steps_External
+    4300034: Corner_Flag_3
+    4300036: Corner_Flag_4
+    4300038: Corner_Flag_2
+    4300040: Corner_Flag_1
+    4300042: Pitch
+    4300044: Field_Lines
+    4300046: Grass
+    4300048: Ground
+    4300050: Substitutes_Benches
+    4300052: Banners_Pitch
+    4300054: Banner_Ground
+    4300056: Banners_Level_0
+    4300058: Banners_Level_1
+    4300060: Banners_Level_2
+    4300062: Banners_Level_3
+    4300064: Roof
+    4300066: Roof_Structural_Beams
+    4300068: Posts_and_Lining
+    4300070: Roof_Glass
+    4300072: Roof_Service_Floors
+    4300074: Roof_Speakers
+    4300076: Lighting_Roof_3
+    4300078: Lighting_Roof_1
+    4300080: Lighting_Roof_2
+    4300082: Roof_Lining
+    4300084: Screens
+    4300086: Exterior_Ground
+    4300088: Windows_Level_1
+    4300090: Windows_Level_0
+    4300092: Windows_Level_2
+    4300094: Windows_Level_3
+    4300096: pitch line
+    4300098: GOAL POLE BASE
+    4300100: GOAL POLE BASE001
+    4300102: Level_005
+    4300104: Level_007
+    4300106: Stair_Steps_Level_004
+    4300108: Object021
+    4300110: Object022
+    4300112: Object023
+    4300114: Object024
+    4300116: Object025
+    4300118: Barriers_Level_2
+    4300120: Object026
+    4300122: Object027
+    4300124: carpet
+    4300126: Box001
+    4300128: Box002
+    4300130: Box003
+    4300132: Box004
+    4300134: Box005
+    4300136: Box006
+    4300138: Box007
+    4300140: Box008
+    4300142: Object028
+    4300144: Object029
+    4300146: Object030
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
